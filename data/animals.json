@@ -101,24 +101,15 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "10"
-    },
-    {
       "name": "Doug",
       "species": "Alligator",
       "diet": "carnivore",
       "personalityTraits": [
         "hungry",
         "zany",
-        "goofy"
+        "anxious"
       ],
-      "id": "11"
+      "id": "10"
     }
   ]
 }
